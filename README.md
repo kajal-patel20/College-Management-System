@@ -1,5 +1,5 @@
                                                   #Task-2(Data Insertion and Handling Nulls)
-# 📚 College Management System 
+# 📚 College Management System Database
 
 This project demonstrates how to design and implement a relational database schema for a **College Management System** using SQL. It includes the Insertion, Updating and deleting of a data.
 
